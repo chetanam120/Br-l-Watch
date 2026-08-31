@@ -1,0 +1,2 @@
+site_id,year,yield_kg_ha,fruiting_body_count,data_source
+EXAMPLE_DO_NOT_USE,0000,12.5,34,"example row only -- delete before use; shows expected format"
