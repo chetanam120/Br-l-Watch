@@ -2,7 +2,7 @@
 
 ## Overview
 
-MycoMate investigates whether genetic mating-type structure (*Tuber melanosporum*
+Brûlé Watch investigates whether genetic mating-type structure (*Tuber melanosporum*
 heterothallism) can help predict or guide truffle orchard productivity, with the
 long-term goal of enabling precision management (e.g. targeted spore trap
 placement) instead of uniform, wasteful application across an orchard.
