@@ -1,4 +1,4 @@
-# MycoMate: Genetics-Informed Truffle Cultivation — Prediction Pipeline
+# Brûlé Watch: Genetics-Informed Truffle Cultivation — Prediction Pipeline
 
 ## Overview
 
